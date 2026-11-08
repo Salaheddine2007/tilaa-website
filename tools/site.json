@@ -1,0 +1,8 @@
+{
+ "base": "https://tilaaiptv.com",
+ "name": "IPTV Subscription Service",
+ "lang": "fi-FI",
+ "read_label": "lukuaika",
+ "article_class": "post-article",
+ "min_words": 2000
+}
