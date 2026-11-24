@@ -1,8 +1,74 @@
 {
  "base": "https://tilaaiptv.com",
- "name": "IPTV Subscription Service",
- "lang": "fi-FI",
- "read_label": "lukuaika",
- "article_class": "post-article",
- "min_words": 2000
+ "name": "Tilaa IPTV",
+ "site_id": "tilaaiptv",
+ "whatsapp": "32497063717",
+ "whatsapp_display": "+32 497 06 37 17",
+ "indexnow_key": "9c41e7da7f97999d65a7bb93206986d4",
+ "min_words": 2000,
+ "launched": "2026-11-25",
+ "author": {
+  "type": "Organization",
+  "name": "Tilaa IPTV:n tukitiimi",
+  "bio_fi": "Oppaat kirjoittaa Tilaa IPTV:n tukitiimi, samat ihmiset jotka vastaavat WhatsAppissa. Asetukset ja sovellusten toiminnot tarkistetaan valmistajien omilta ohjesivuilta, ja korjaamme tekstin, kun jokin muuttuu.",
+  "bio_en": "The guides are written by the Tilaa IPTV support team, the same people who answer on WhatsApp. Settings and app features are checked against the manufacturers' own help pages, and we correct the text when something changes."
+ },
+ "prices_eur": {
+  "1": {
+   "1": 15.99,
+   "3": 30.99,
+   "6": 45.99,
+   "12": 69.99
+  },
+  "2": {
+   "1": 23.99,
+   "3": 49.99,
+   "6": 69.99,
+   "12": 119.99
+  },
+  "3": {
+   "1": 32.99,
+   "3": 69.99,
+   "6": 94.99,
+   "12": 169.99
+  }
+ },
+ "facts": [
+  [
+   "Price (1 screen)",
+   "EUR 15.99 for 1 month, 30.99 for 3 months, 45.99 for 6 months, 69.99 for 12 months (5.83/month)"
+  ],
+  [
+   "Screens",
+   "1, 2 or 3 screens at the same time. 2 screens: 23.99, 49.99, 69.99 or 119.99. 3 screens: 32.99, 69.99, 94.99 or 169.99 (1, 3, 6 or 12 months)"
+  ],
+  [
+   "Contract",
+   "None. The subscription does not renew automatically"
+  ],
+  [
+   "Channels",
+   "Finnish channels plus other Nordic channels. The line-up can change over time"
+  ],
+  [
+   "Picture",
+   "HD, and 4K where the channel broadcasts in 4K"
+  ],
+  [
+   "Devices",
+   "Samsung and LG Smart TV, Android TV, Google TV, Fire TV Stick, Apple TV, iPhone, iPad, Android, Windows, Mac and MAG box"
+  ],
+  [
+   "Internet speed",
+   "At least 10 Mbit/s per screen for HD, 25 Mbit/s for 4K"
+  ],
+  [
+   "Ordering and support",
+   "Via WhatsApp, in Finnish and English"
+  ],
+  [
+   "Payment",
+   "Visa, Mastercard, Maestro, Apple Pay, Google Pay, PayPal; from other EU countries also SEPA, iDEAL, Bancontact, giropay"
+  ]
+ ]
 }

@@ -1,0 +1,43 @@
+{
+ "main": "iptv norway",
+ "secondary": {
+  "iptv nordic": {
+   "volume": 2900,
+   "kd": 10,
+   "page": "/iptv-nordic/ + /en/iptv-nordic/",
+   "also": [
+    "nordic iptv (2.9K, KD 17)"
+   ]
+  },
+  "norsk iptv": {
+   "volume": 480,
+   "kd": 7,
+   "page": "/norsk-iptv/"
+  },
+  "beste iptv norge": {
+   "volume": 480,
+   "kd": 22,
+   "page": "/beste-iptv-norge/",
+   "also": [
+    "beste iptv (480, KD 13)"
+   ]
+  },
+  "best iptv": {
+   "volume": 390,
+   "kd": 23,
+   "page": "/en/best-iptv-norway/"
+  },
+  "iptv norge": {
+   "volume": 6600,
+   "kd": 39,
+   "page": "secondary mention on the Norwegian home; dedicated push after backlinks"
+  }
+ },
+ "deny_note": "Commercial-intent keywords only. Never target free / playlist / m3u / review / reddit / crack / forum / kodi / iptv box queries: they bring traffic that does not convert (see the mijniptv forum-keyword audit).",
+ "deny_regex": "\\b(free|gratis|playlist|play list|spilleliste|m3u|reviews?|anmeldelse\\w*|omtale\\w*|reddit|crack\\w*|jailbreak\\w*|forum|kodi|pirat\\w*|iptv[ -]box|iptv[ -]boks)\\b",
+ "needs_user_ok": [
+  "iptv smarters pro (1.3K, KD 37): app/brand intent",
+  "viking iptv (720): competitor brand",
+  "smart iptv (880, KD 31): app intent"
+ ]
+}

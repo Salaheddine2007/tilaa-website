@@ -1,0 +1,50 @@
+# Tilaa IPTV
+
+> Tilaa IPTV sells IPTV subscriptions with Finnish and Nordic channels in HD to households in Finland. Ordering, payment and installation help happen on WhatsApp. The site is available in Finnish (/) and English (/en/).
+
+## Facts
+
+- Price (1 screen): EUR 15.99 for 1 month, 30.99 for 3 months, 45.99 for 6 months, 69.99 for 12 months (5.83/month)
+- Screens: 1, 2 or 3 screens at the same time. 2 screens: 23.99, 49.99, 69.99 or 119.99. 3 screens: 32.99, 69.99, 94.99 or 169.99 (1, 3, 6 or 12 months)
+- Contract: None. The subscription does not renew automatically
+- Channels: Finnish channels plus other Nordic channels. The line-up can change over time
+- Picture: HD, and 4K where the channel broadcasts in 4K
+- Devices: Samsung and LG Smart TV, Android TV, Google TV, Fire TV Stick, Apple TV, iPhone, iPad, Android, Windows, Mac and MAG box
+- Internet speed: At least 10 Mbit/s per screen for HD, 25 Mbit/s for 4K
+- Ordering and support: Via WhatsApp, in Finnish and English
+- Payment: Visa, Mastercard, Maestro, Apple Pay, Google Pay, PayPal; from other EU countries also SEPA, iDEAL, Bancontact, giropay
+
+## Pages (fi)
+
+- [Tilaa IPTV:n ehdot | Paketit ja uusiutuminen](https://tilaaiptv.com/ehdot/): Tilaa IPTV:n palveluehdot: paketit, maksu, ei automaattista uusiutumista, tuki, käyttö ja kuluttajan oikeutesi Suomessa.
+- [Evästeet ja tilastot Tilaa IPTV:ssä | Sinun valintasi](https://tilaaiptv.com/evasteet/): Tilaa IPTV ei käytä evästeitä. Valinnainen tilasto laskee käynnit ja klikkaukset vain, jos hyväksyt. Näin se toimii ja näin muutat valintaa.
+- [IPTV Suomi 2026: suomalaiset kanavat HD-laadulla, alk. 5,83 €](https://tilaaiptv.com/): IPTV Suomi kotitalouksille: suomalaiset ja pohjoismaiset kanavat HD-laadulla, TV-opas ja asennusapu WhatsAppissa. Alk. 5,83 €/kk ilman sitoutumista.
+- [IPTV hinta: 12 pakettia alkaen 15,99 € | Tilaa IPTV](https://tilaaiptv.com/iptv-hinta/): IPTV hinta Tilaa IPTV:llä on 15,99 € yhdeltä kuukaudelta ja 69,99 € kahdeltatoista kuukaudelta yhdellä näytöllä, eli 5,83 € kuukaudessa. Kahden ja kolmen näytön paketit maksavat enemmän. Mikään ei uusiudu automaattisesti.
+- [IPTV kanavat: 5 asiaa tarkistaa ennen tilaamista | Tilaa IPTV](https://tilaaiptv.com/iptv-kanavat/): IPTV kanavat tulevat internetin kautta suomalaisina ja pohjoismaisina kanavina yhdessä sovelluksessa TV-oppaan kanssa. Kanavatarjonta voi muuttua ajan myötä, joten kysy tietystä kanavasta ennen tilaamista.
+- [IPTV sovellus: asennus 3 vaiheessa televisioon ja puhelimeen](https://tilaaiptv.com/iptv-sovellus/): IPTV sovelluksen asennus tehdään kolmessa vaiheessa: valitse paketti, saat tunnukset WhatsAppissa ja asennat sovelluksen televisioosi, boksiisi tai puhelimeesi. Se vie muutaman minuutin, kun nopeutta on 10 Mbit/s per näyttö ja sovellus sopii malliisi.
+- [Paras IPTV palvelu: 7 tarkistuskohtaa ennen valintaa](https://tilaaiptv.com/paras-iptv-palvelu/): Paras IPTV palvelu toimii vakaasti omalla televisiollasi, sisältää katsomasi kanavat, näyttää TV-oppaan, ei sido pitkään ja antaa oikeaa tukea. Kokeile ensin yhtä kuukautta ja käy läpi tämän sivun seitsemän kohtaa.
+- [Tietoa Tilaa IPTV:stä: kuka kirjoittaa oppaat ja miksi](https://tilaaiptv.com/tietoa-meista/): Tietoa Tilaa IPTV:stä: riippumaton IPTV-palvelu Suomeen, miten tukitiimi kirjoittaa oppaat ja mitä väitteitä emme tee. Rehellisesti ja ilman liioittelua.
+- [Tilaa IPTV:n tietosuojaseloste | Mitä tallennamme](https://tilaaiptv.com/tietosuoja/): Tilaa IPTV:n tietosuoja: mitä keräämme tilatessasi tai käyttäessäsi yhteydenottolomaketta, kuinka kauan säilytämme tiedot ja miten pyydät poistoa.
+- [IPTV Suomi UKK: kysymyksiä ja vastauksia | Tilaa IPTV](https://tilaaiptv.com/ukk/): Vastauksia Tilaa IPTV:stä: paketit, maksutavat, nopeus, laitteet, uusiutuminen ja laillisuus. Lyhyet ja suorat vastaukset tukitiimiltämme.
+- [Ota yhteyttä Tilaa IPTV:hen: WhatsApp ja yhteydenottolomake](https://tilaaiptv.com/yhteystiedot/): Ota yhteyttä Tilaa IPTV:hen WhatsAppissa tilauksiin, asennukseen ja vianetsintään tai käytä lomaketta. Mitä kannattaa kertoa ensimmäisessä viestissä.
+
+## Guides (fi)
+
+
+## Pages (en)
+
+- [About Tilaa IPTV: Who Writes the Guides and Why](https://tilaaiptv.com/en/about/): About Tilaa IPTV: an independent IPTV service for Finland, how our support team writes the guides and which facts we will and will not claim.
+- [Best IPTV in Finland: 7 Checks Before You Subscribe](https://tilaaiptv.com/en/best-iptv-finland/): The best IPTV for Finland is the one that runs steadily on your own TV, has the channels you watch, shows a TV guide, has no contract and gives real support. Test one month first and check the seven points on this page.
+- [Contact Tilaa IPTV: WhatsApp and Contact Form](https://tilaaiptv.com/en/contact/): Contact Tilaa IPTV on WhatsApp for orders, installation and troubleshooting, or use the contact form. What to include in your first message.
+- [Cookies and Statistics at Tilaa IPTV | Your Choice](https://tilaaiptv.com/en/cookies/): Tilaa IPTV uses no cookies. Optional statistics count visits and clicks only if you accept. Here is how it works and how to change your choice.
+- [IPTV Finland FAQ: Questions and Answers | Tilaa IPTV](https://tilaaiptv.com/en/faq/): Answers about Tilaa IPTV: plans, payment, speed, devices, renewal and legality. Short and straight, written by our support team.
+- [IPTV Finland 2026: Finnish and Nordic TV in HD from €5.83/mo](https://tilaaiptv.com/en/): IPTV Finland for households: Finnish and Nordic channels in HD, a TV guide and install help on WhatsApp. From €5.83/month, no contract. Order today.
+- [Install IPTV in 3 Steps on Smart TV, Fire TV and Phone](https://tilaaiptv.com/en/install-iptv/): To install IPTV you pick a plan, get your login on WhatsApp and put an IPTV app on your TV, box or phone. It takes a few minutes if you have 10 Mbit/s per screen and the right app for your model.
+- [IPTV Subscription Finland: 12 Plans from €15.99 | Tilaa IPTV](https://tilaaiptv.com/en/iptv-subscription-finland/): An IPTV subscription in Finland from Tilaa IPTV costs €15.99 for one month and €69.99 for twelve months on one screen, which is €5.83 a month. Two and three screens cost more. Nothing renews automatically.
+- [Privacy Policy for Tilaa IPTV | What We Store and Why](https://tilaaiptv.com/en/privacy/): Privacy at Tilaa IPTV: what we collect when you order or use the contact form, how long we keep it and how to ask us to delete it.
+- [Terms of Service for Tilaa IPTV | Plans and Renewal](https://tilaaiptv.com/en/terms/): Terms of service for Tilaa IPTV: plans, payment, no automatic renewal, support, acceptable use and your rights as a consumer in Finland.
+
+## Guides (en)
+
+
+Last updated: 2026-11-25
